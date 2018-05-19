@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "poi",
+    "build": "poi build --out-dir docs --public-path '' --source-map false"
+  },
+  "dependencies": {
+    "webpack-glsl-loader": "^1.0.1"
+  }
+}
